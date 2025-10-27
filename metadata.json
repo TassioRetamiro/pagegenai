@@ -1,0 +1,5 @@
+{
+  "name": "PageGen AI",
+  "description": "An AI-powered SaaS that allows affiliate marketers to generate high-converting TOFU, MOFU, and BOFU landing pages in HTML/CSS by simply providing a product's affiliate link. The AI scrapes the link, extracts key information, and crafts responsive pages tailored to different stages of the marketing funnel.",
+  "requestFramePermissions": []
+}
